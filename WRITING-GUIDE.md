@@ -132,6 +132,37 @@ why: think          # "Why I feel more comfortable writing about T&S than anythi
 
 ---
 
+## Minimal Callouts
+This theme includes a minimal callout style for a cleaner look.
+
+### Syntax
+
+> [minimal-tip]> Your tip content here> [minimal-note]> Your note content here
+
+### Available Types
+
+[minimal-tip] - Tips and hints
+[minimal-note] - General notes
+[minimal-warning] - Warnings
+[minimal-info] - Informational content
+[minimal-quote] - Quotes (styled differently)
+[minimal-success] - Success messages
+[minimal-question] - Questions
+
+### Examples
+
+> [minimal-tip]
+> This is a minimal tip callout with a cleaner, more subtle design.
+
+> [minimal-quote]
+> This is a quote styled with the minimal callout system.
+
+> [minimal-note]
+> A simple note using the minimal style.
+
+---
+
+
 ## Wikilinks & Aliases
 
 ### Basic Wikilinks
